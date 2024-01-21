@@ -44,6 +44,8 @@ Backend of Todo -app
 
   routes(todo.js)----->>routing the controllers
 
+  model(todo.js)----->>schema of database
+
 
 
 🚀!!Thank you for visiting! Feel free to explore the codebase and experience the todo-app!!🚀
