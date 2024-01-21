@@ -1,5 +1,3 @@
-# Todo-App-Backend
-Backend of Todo -app
 
 
 # Todo-App-Backend
@@ -8,16 +6,16 @@ Backend of Todo -app
 
 🌠 Tech Stack:🔮
 
-   Node js
-   express
-   mongodb
+   -Node js
+   -express
+   -mongodb
 
 
 🌈 Installation process
 
-   Node js
-   Postmane
-   Mongodb compass 
+   -Node js
+   -Postmane
+   -Mongodb compass 
 
 
 📂 Project Structure:
