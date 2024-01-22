@@ -44,7 +44,7 @@ Backend of Todo -app
 
   routes(todo.js)----->>routing the controllers
 
-  model(todo.js)----->>schema of database
+  models(todo.js)----->>schema of database
 
 
 
