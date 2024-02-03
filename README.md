@@ -45,7 +45,7 @@ Backend of Todo -app
 
   controller(createtodo.js,deletetodo.js,gettodo.js..)----->>opertion perform such as insertions,deletions...
 
-  routes(todo.js)----->>routing the controllers
+  routes(todos.js)----->>routing the controllers
 
   models(todo.js)----->>schema of database
 
