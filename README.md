@@ -27,11 +27,14 @@ Backend of Todo -app
        #(npm i mongoose) 
        #(npm i dotenv)...for installation
 
-   (3) Create your own database url form mongodb compass and put it in to .env file--->>***(YOUR MONGODB-CAMPASS-URL)***
+   (3)create your own .env file and defined your PORT and MONGODB-URL
+       
 
-   (4) Then at the end open the terminal and then put this command #(server.js)
+   (4) Create your own database url form mongodb compass and put it in to .env file--->>***(YOUR MONGODB-CAMPASS-URL)***
 
-   (5) Then you can use the postmane to hit the request (delete,put,push..) then you can this the results in your database(mongodb compass)
+   (5) Then at the end open the terminal and then put this command #(server.js)
+
+   (6) Then you can use the postmane to hit the request (delete,put,push..) then you can this the results in your database(mongodb compass)
 
 
 📂Folder and File's description
